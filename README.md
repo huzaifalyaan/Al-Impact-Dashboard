@@ -15,10 +15,10 @@ The dashboard helps users understand AI adoption trends and how different AI too
 * **Power BI** - Visualizations: Bar charts, donut charts, column charts, KPI cards, slicers, and tables.
 
 ### 4. Data Source
--Source: Kaggle
--Dataset Platform: Kaggle
--File Format: CSV (Comma-Separated Values)
--Usage: Data cleaning, exploratory data analysis, KPI development, and interactive Power BI dashboard creation.
+* **Source** : Kaggle
+* **Dataset Platform** : Kaggle
+* **File Format** : CSV (Comma-Separated Values)
+* **Usage** : Data cleaning, exploratory data analysis, KPI development, and interactive Power BI dashboard creation.
 
 ### 5. Features / Highlights
 
